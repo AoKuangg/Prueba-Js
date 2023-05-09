@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "12",
+      "nombre": "Camilo",
+      "apellido": "Paez",
+      "celular": "3504305294",
+      "fecha": "05-23-2004",
+      "origen": "Floridablanca",
+      "pais": "Colombia",
+      "email": "camipa2305@gmail.com"
+    }
+  ],
+  "rutas": [],
+  "flota": [],
+  "personal": [],
+  "Registro": []
+}
