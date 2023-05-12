@@ -2,5 +2,5 @@ body{
     background-image: url(../resourses/fondo6.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    
+    backdrop-filter: blur(2px);
 }

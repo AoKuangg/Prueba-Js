@@ -2,6 +2,6 @@ body{
     background-image: url(../resourses/fondo4.jpeg);
     background-repeat: no-repeat;
     background-size: 100%;
-    
+    backdrop-filter: blur(2px);
     
 }
